@@ -13,7 +13,7 @@ from firebase_admin import credentials, firestore
 # ==========================================
 # Configuration
 # ==========================================
-BOT_TOKEN = "8955171942:AAHXxGC3RyONcvHsczU2mrnFZBOCUmn4A-Q"
+BOT_TOKEN = "8970774638:AAEnEcfPmQp1209D8sQBMhWPb4hjKlqsHfg"
 ADMIN_ID = 7915173083  # আপনার Telegram User ID দিন
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
 BOT_USERNAME = "otprfbot"
